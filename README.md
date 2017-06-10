@@ -1,5 +1,5 @@
 # Assessing
 
-Parcel Viewer: http://app01.cityofboston.gov/Parcelviewer/
+Parcel Viewer: http://app01.cityofboston.gov/parcelviewer/
 
-Abutter: http://app01.cityofboston.gov/Abutter/
+Abutter: http://app01.cityofboston.gov/abutter/
